@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "merge_sort_3",
+    "mst",
+]
